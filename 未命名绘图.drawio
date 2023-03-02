@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T00:46:18.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="dQdxd6ERL5E46hbvn1mQ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T01:50:27.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="pVsCCNgOLOQHNtFJCsqT" version="20.8.23" type="github">
   <diagram name="第 1 页" id="jIALP_Qu_OMVzzjKfbdN">
-    <mxGraphModel dx="1434" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,30 @@
         </mxCell>
         <mxCell id="VlplCTbGySArgwU-pw7Q-15" value="End-Point" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;flipH=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="941" y="2192.5" width="93" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-28" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2480" width="310" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-31" value="Service&amp;nbsp;Skeleton" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="2590" width="214.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-32" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="823" y="2480" width="307" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-33" value="SD" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875.75" y="2500" width="214.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-34" value="Client&amp;nbsp;Component" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880.5" y="2770" width="209.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-35" value="Service&amp;nbsp;Proxy" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="2597.5" width="207.5" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-36" value="SD" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="2500" width="214.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VlplCTbGySArgwU-pw7Q-37" value="Server Component" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="2770" width="209.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
